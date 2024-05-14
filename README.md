@@ -1,6 +1,6 @@
-### Hi! 
+### Hello! 
 
-I'm Suzanne Schenewerk, a sociology PhD Student at Duke University. I study culture, religion, and how beliefs and identites form and change over time. 
+I'm Suzanne Schenewerk, a PhD candidate in Sociology at Duke University. I study culture, religion, and how beliefs and identities form and change over time. 
 
 <!--
 **schenewerk/schenewerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
